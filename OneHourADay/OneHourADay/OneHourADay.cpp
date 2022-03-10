@@ -7,10 +7,20 @@
 #include <string>
 #include <sstream>
 
+//
+//
+//
 using std::cout;
 using std::endl;
 using std::vector;
 using std::string;
+
+// strange
+
+const double my_twenty = 20;
+
+const double my_ten = 10;
+
 const double my_pi = 3.141592; // #define is a preprocessor macro
 
 constexpr double getPi() { return 22.07 / 7; }
