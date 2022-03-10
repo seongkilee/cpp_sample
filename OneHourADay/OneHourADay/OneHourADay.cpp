@@ -19,6 +19,8 @@ constexpr double TwicePi() { return 2 * getPi(); }
 
 constexpr int Square(int number) { return number * number; }
 
+// test
+
 template<typename T>
 class Sample
 {
