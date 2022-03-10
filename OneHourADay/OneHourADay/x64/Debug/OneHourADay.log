@@ -1,0 +1,2 @@
+﻿  OneHourADay.cpp
+C:\Users\seong\source\repos\OneHourADay\OneHourADay\OneHourADay.cpp(125,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
